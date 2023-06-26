@@ -30,3 +30,5 @@ This capstone follows the six steps of the data analysis process.
 ### Act
 
 - Your top three recommendations based on your analysis
+
+### Note: A link has been provided in the "About" section of this repository if you do not wish to download the HTML file.
