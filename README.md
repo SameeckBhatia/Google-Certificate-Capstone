@@ -11,11 +11,14 @@ This capstone follows the six steps of the data analysis process.
 
 ### Ask
 
-- A clear statement of the business task.
+A clear statement of the business task.
+  - Analyze usage patterns of Cyclistic bikes to develop a marketing strategy focused on casual rider to annual member conversion.
 
 ### Prepare
 
-- A description of all data sources used.
+A description of all data sources used.
+  - Data has been gathered from Divvy Bikes [system data](https://divvy-tripdata.s3.amazonaws.com/index.html).
+  - Data originates from a collaboration between the City of Chicago and Lyft.
 
 ### Process
 
@@ -31,7 +34,10 @@ This capstone follows the six steps of the data analysis process.
 
 ### Act
 
-- Your top three recommendations based on your analysis
+Your top three recommendations based on your analysis.
+  - Promote routes/activities, and offer discounts to casual riders on weekends to increase Sunday ridership.
+  - Create a referral program to reduce the ratio between member and casual riders for the winter months.
+  - Increase marketing at the Street Dr & Grand Ave station to attract the high amount of casual riders.
 
 ---
 
